@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Photo Editor</string>
+    <string name="label_brush">Brush</string>
+    <string name="label_emoji">Emoji</string>
+    <string name="label_sticker">Sticker</string>
+    <string name="label_eraser">Eraser</string>
+    <string name="label_eraser_mode">Eraser Mode</string>
+    <string name="label_text">Text</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_adjust">Adjust</string>
+    <string name="msg_save_image">Are you want to exit without saving image ?</string>
+    <string name="app_intent_name">PhotoEditor</string>
+    <string name="msg_save_image_to_share">Please save image to share</string>
+    <string name="msg_share_image">Share Image</string>
+
+    <string name="astronaut_content_desc">astronaut</string>
+    <string name="app_logo_content_desc">logo</string>
+    <string name="camera_button_content_desc">camera_button_image</string>
+    <string name="camera_button_text">Camera</string>
+    <string name="gallery_button_content_desc">gallery_button_image</string>
+    <string name="gallery_button_text">Gallery</string>
+    <string name="loading">Loading...</string>
+    <string name="Photo_Text">Photo Editor</string>
+
+    <string name="edited_image_content_desc">edited_image</string>
+</resources>
